@@ -1,3 +1,5 @@
 <dennis - 1> new line
 
 <dennis - 2> second line
+
+<dennis - 3> third line after other's push
